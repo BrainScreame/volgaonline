@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="size_button">80dp</dimen>
+
+    <dimen name="size_button_anydpi">55dp</dimen>
+    <dimen name="size_button_ldpi">45dp</dimen>
+    <dimen name="size_button_mdpi">50dp</dimen>
+    <dimen name="size_button_hdpi">80dp</dimen>
+    <dimen name="size_button_xhdpi">80dp</dimen>
+    <dimen name="size_button_xxhdpi">80dp</dimen>
+    <dimen name="size_button_xxxhdpi">90dp</dimen>
+    <dimen name="size_button_land">40dp</dimen>
+
+
+</resources>
